@@ -1,1 +1,1 @@
-# Bulk-AI-Image-Generator-
+# Bulk-AI-Image-Generator
