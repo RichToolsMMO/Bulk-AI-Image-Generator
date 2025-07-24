@@ -31,7 +31,7 @@ This tool is perfect for:
 
 ## 🚀 How to Install
 
-1. Download the installer from the [Google Drive link](#) (provided separately).
+1. Download the installer from the project repository in this GitHub repo.
 2. Extract the `.zip` file to any folder.
 3. Double-click the installer file.
 4. Click **Next** through the steps until installation completes.
