@@ -42,12 +42,6 @@ Every new user gets:
 
 ---
 
-## 🎁 Free Access for Tool Buyers
-
-If you've purchased any other tool from our store (e.g., film review tools, AI story generators, video downloaders), you'll get Rick Gen Image Tool **free for 1–2 months**.
-
----
-
 ## 🔒 Upgrade Options
 
 You can unlock full access by:
