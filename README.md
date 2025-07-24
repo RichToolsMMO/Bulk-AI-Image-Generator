@@ -1,91 +1,108 @@
-# 🌟 Chichbong.me – AI Image Generation Tool
+# 📸 Rick Gen Image Tool – Free Unlimited AI Image Generator
 
-Turn your ideas into high-quality images in seconds using Chichbong.me — a powerful, fast, and easy-to-use AI image generation platform.
+Welcome to **Rick Gen Image Tool**, a powerful and user-friendly software that lets you generate **AI images for free** – with **no limits** on how many images you can create.
 
----
-
-## 🚀 Key Features
-
-- **⚡ Ultra-Fast Generation**  
-  Create images in just 2–3 seconds per prompt — perfect for rapid workflows.
-
-- **🎯 High-Quality Outputs**  
-  Generate sharp, professional-grade visuals that align closely with your input.
-
-- **🎨 Multiple Art Styles**  
-  Supports a variety of styles and formats for versatile creative expression.
-
-- **📦 Bulk Prompt Support**  
-  Upload up to 300 prompts at once to generate hundreds of images in one batch.
-
-- **🧠 Accurate Prompt Interpretation**  
-  Output images match your descriptions with high precision, reducing the need for edits.
-
-- **🔁 Automated Workflow**  
-  No manual copy-paste required — everything is streamlined inside the app.
+This tool is perfect for:
+- 🎬 YouTubers who need thumbnails and visuals  
+- 🎵 TikTok creators looking for creative content  
+- 🧠 Designers and marketers who need bulk AI images  
+- 💡 Anyone experimenting with AI art
 
 ---
 
-## 🛠️ How to Use
+## ✨ Key Features
 
-1. **Download the Windows app**
-2. **Paste your prompts**
-3. **Click "Generate"** to instantly receive your images
-
-> No AI setup or extra tools required — it's all built-in.
-
----
-
-## 💼 Pricing Plans
-
-| Plan        | Price (₫, incl. VAT)     | Features                                         |
-|-------------|--------------------------|--------------------------------------------------|
-| **Trial**   | 9,900₫ / 30 days         | 100 images, full features, one-time use only     |
-| **Standard**| 369,000₫ / 30 days       | Up to 30,000 images, priority processing         |
-|             | **559,000₫ from Jul 7**  |                                                  |
-| **Premium** | 699,000₫ / 90 days       | Up to 90,000 images, 24/7 support                |
-|             | **1,259,000₫ from Jul 7**|                                                  |
+- 🖼️ **Create up to 100 AI images at once**
+- ♾️ **No daily or monthly usage limits**
+- 🎨 Choose from various art styles (Cartoon, Renaissance, Jesus, Medieval, etc.)
+- 📐 Supports multiple aspect ratios:
+  - 16:9 (YouTube)
+  - 9:16 (TikTok)
+  - 1:1 (Facebook & Instagram)
+- 💾 Save generated images directly to your PC
 
 ---
 
-## ❓ FAQ
+## 🚀 How to Install
 
-**Can I cancel anytime?**  
-Yes. However, unused days are non-refundable.
-
-**Is there a limit to how many prompts I can run at once?**  
-Yes, up to 300 prompts per batch.
-
-**Can I upgrade during an active plan?**  
-Yes. You’ll only pay the difference.
-
-**Is there a free trial?**  
-No free trial, but the low-cost Trial plan is available.
+1. Download the installer from the [Google Drive link](#) (provided separately).
+2. Extract the `.zip` file to any folder.
+3. Double-click the installer file.
+4. Click **Next** through the steps until installation completes.
+5. Click **Launch Tool** and **Finish** to start using.
 
 ---
 
-## 📦 Download
+## 🧪 Free Trial
 
-- **Platform:** Windows 10/11 (64-bit)  
-- **Version:** 1.2.2  
-- **File:** `.zip` with `.exe` launcher  
-- **Steps:**  
-  1. Download and extract the ZIP file  
-  2. Run the `.exe`  
-  3. Follow the on-screen instructions  
-  4. Start generating!
+Every new user gets:
+- **100 free credits** (1 credit = 1 image)
+- **12 hours** of trial access
+- Instant registration in just a few seconds
 
 ---
 
-## 📞 Contact & Support
+## 🎁 Free Access for Tool Buyers
 
-- Help Center: FAQ, User Guide, Support Policy  
-- Phone: `091.999.6866`  
-- Website: [https://chichbong.me](https://chichbong.me)
-
-© 2023 Chichbong.me. All rights reserved.
+If you've purchased any other tool from our store (e.g., film review tools, AI story generators, video downloaders), you'll get Rick Gen Image Tool **free for 1–2 months**.
 
 ---
 
-> ✅ Ready to boost your creative workflow?  
-> **Download Chichbong.me now and start generating stunning AI images in seconds!**
+## 🔒 Upgrade Options
+
+You can unlock full access by:
+- Clicking **Upgrade Package** in the app
+- Or contacting us directly via **Zalo: Lương Huy (official)**
+
+---
+
+## 📌 Usage Instructions
+
+1. Enter your desired image prompts (English only, up to 100 at a time).
+2. Choose an art style that fits your theme.
+3. Select image size/aspect ratio.
+4. Pick an output folder on your computer.
+5. Click **Start Generating** – and watch the magic happen!
+
+> ⚠️ Note: Prompts must not contain violence, hate speech, or personal/private info.
+
+---
+
+## 📂 Output & Storage
+
+After generation:
+- Images will be saved in your chosen folder.
+- You can preview results directly from the app.
+- Your remaining credits and daily image count will be updated.
+
+---
+
+## 🤝 Community & Support
+
+- Join our **Zalo Group Chat** via QR Code in the app.
+- Need help or want to request activation? Message **Zalo: Lương Huy**.
+
+---
+
+## 📽️ Video Guide
+
+A complete tutorial is available (with step-by-step instructions).  
+📺 [Link to video tutorial](#)
+
+---
+
+## 💬 Feedback & Contribution
+
+If you have any ideas, bugs to report, or want to help improve this tool – feel free to open an issue or contact us.
+
+---
+
+## 🖼️ Sample Generated Image
+
+![Sample Image](#)  
+*Example: Cute AI-generated dolphin using cartoon style.*
+
+---
+
+Thank you for checking out **Rick Gen Image Tool**.  
+We hope it becomes a helpful resource for your creative projects! 🌟
