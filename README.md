@@ -38,7 +38,7 @@ This tool is perfect for:
 3. Double-click the installer file.
 4. Click **Next** through the steps until installation completes.
 5. Click **Launch Tool** and **Finish** to start using.
-
+![AI Image Generator Demo](how-to-install.gif)
 ---
 
 ## 🧪 Free Trial
@@ -47,7 +47,7 @@ Every new user gets:
 - **100 free credits** (1 credit = 1 image)
 - **12 hours** of trial access
 - Instant registration in just a few seconds
-
+![AI Image Generator Demo](how-to-free trial.gif)
 ---
 
 ## 📌 Usage Instructions
