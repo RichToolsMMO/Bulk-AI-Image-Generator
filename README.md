@@ -57,7 +57,7 @@ Every new user gets:
 5. Click **Start Generating** – and watch the magic happen!
 
 > ⚠️ Note: Prompts must not contain violence, hate speech, or personal/private info.
-
+![AI Image Generator Demo](usage-Instructions.gif)
 ---
 
 ## 📂 Output & Storage
