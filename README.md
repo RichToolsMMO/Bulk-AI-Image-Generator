@@ -23,6 +23,12 @@ This tool is perfect for:
 
 ---
 
+## 🖼️ Sample Generated Image
+
+![Sample Image](#)
+
+---
+
 ## 🚀 How to Install
 
 1. Download the installer from the [Google Drive link](#) (provided separately).
@@ -65,8 +71,8 @@ After generation:
 
 ## 🤝 Community & Support
 
-- Join our **Zalo Group Chat** via QR Code in the app.
-- Need help or want to request activation? Message **Zalo: Lương Huy**.
+- WhatsApp: https://wa.me/84777286725
+- Telegram: https://t.me/richsoftwaremmo
 
 ---
 
@@ -83,12 +89,4 @@ If you have any ideas, bugs to report, or want to help improve this tool – fee
 
 ---
 
-## 🖼️ Sample Generated Image
-
-![Sample Image](#)  
-*Example: Cute AI-generated dolphin using cartoon style.*
-
----
-
-Thank you for checking out **Rick Gen Image Tool**.  
 We hope it becomes a helpful resource for your creative projects! 🌟
