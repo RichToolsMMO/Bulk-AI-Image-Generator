@@ -42,14 +42,6 @@ Every new user gets:
 
 ---
 
-## 🔒 Upgrade Options
-
-You can unlock full access by:
-- Clicking **Upgrade Package** in the app
-- Or contacting us directly via **Zalo: Lương Huy (official)**
-
----
-
 ## 📌 Usage Instructions
 
 1. Enter your desired image prompts (English only, up to 100 at a time).
