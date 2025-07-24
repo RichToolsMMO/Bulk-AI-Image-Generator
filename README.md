@@ -26,8 +26,7 @@ This tool is perfect for:
 ---
 
 ## 🖼️ Sample Generated Image
-
-![Sample Image](#)
+![Software Interface](software-interface.jpg)
 
 ---
 
