@@ -1,6 +1,6 @@
-# 📸 Rick Gen Image Tool – Free Unlimited AI Image Generator
+# 📸 Rich Gen Image Tool – Free Unlimited AI Image Generator
 
-Welcome to **Rick Gen Image Tool**, a powerful and user-friendly software that lets you generate **AI images for free** – with **no limits** on how many images you can create.
+Welcome to **Rich Gen Image Tool**, a powerful and user-friendly software that lets you generate **AI images for free** – with **no limits** on how many images you can create.
 #### Compatibility
 - Well compatible with Windows 10 and 11.
   
